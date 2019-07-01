@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paddle 分布式训练及CTR预估模型应用
 
 原始models：[PaddleRec-Ctr](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/ctr)
@@ -276,3 +277,7 @@ python infer.py \
 
 
 
+=======
+# PaddleCriteo
+criteo
+>>>>>>> 58ca473f5890da6761a1242326d82d875d2a700a
